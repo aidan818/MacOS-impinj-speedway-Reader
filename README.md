@@ -1,0 +1,1 @@
+# MacOS-impinj-speedway-Reader
