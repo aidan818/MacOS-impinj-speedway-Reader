@@ -15,9 +15,9 @@ namespace impinjspeedwayreader
 		{
 		}
 
-        public ViewController()
-        {
-        }
+//         public ViewController()
+//         {
+//         }
 
         public override void ViewDidLoad ()
 		{
